@@ -1,18 +1,29 @@
 REQUESTED FEATURES
 
 A. The task is to conduct a preliminary risk analysis and perform qualitative risk analysis (AR) according to the organization's description:
+
 • Determination of the scope of AR and methodology - vulnerability scale, asset value scale, risk level scale.
+
 • Identification and evaluation of assets - in connection with the mentioned HW and SW and others according to the organization's activities.
+
 • Definition of threats and the likelihood of their occurrence - according to the organization's activities, its location, and the current state of information security management.
+
 • Determination of vulnerability level - calculation of the probability of threat occurrence for a specific asset, again considering the type of organization's activities, its location, and the current state of information security management.
+
 • Determination of risk level - determination of risk levels for individual assets and threats
 
 B. Furthermore, propose measures to minimize identified risks with the highest risk levels, at least in the following areas:
+
 • Physical security
+
 • Tools for protecting the integrity of communication networks
+
 • Tools for user identity verification
+
 • Tools for protection against malicious code
+
 • Tools for collecting and evaluating cyber security events
+
 • Cryptographic means
 
 C. Evaluate the economic cost and return on investment for the proposed measures. Finally, propose issuing a directive from the organization/company management mandatory for employees and customers to ensure the safety of work in ICT companies and the procedure for handling cyber incidents, and train employees in the principles of data protection and infrastructure security.
