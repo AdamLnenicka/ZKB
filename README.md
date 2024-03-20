@@ -1,4 +1,4 @@
-REQUESTED FEATURES
+<h1> REQUESTED FEATURES </h1>
 
 A. The task is to conduct a preliminary risk analysis and perform qualitative risk analysis (AR) according to the organization's description:
 
@@ -29,7 +29,7 @@ B. Furthermore, propose measures to minimize identified risks with the highest r
 C. Evaluate the economic cost and return on investment for the proposed measures. Finally, propose issuing a directive from the organization/company management mandatory for employees and customers to ensure the safety of work in ICT companies and the procedure for handling cyber incidents, and train employees in the principles of data protection and infrastructure security.
 
 
-DESCRIPTION OF ORGANIZATION
+<h1> DESCRIPTION OF ORGANIZATION </h1>
 
 Certainly! Here's a structured presentation of the information:
 
